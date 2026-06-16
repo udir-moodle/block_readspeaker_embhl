@@ -1,0 +1,17 @@
+{
+  "name": "udir-moodle/block_readspeaker_embhl",
+  "description": "ReadSpeaker for Moodle — Composer/Packagist mirror of the Moodle plugin block_readspeaker_embhl, auto-updated from the Moodle plugins directory.",
+  "type": "moodle-block",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://moodle.org/plugins/block_readspeaker_embhl",
+  "require": {
+    "composer/installers": "~1.0 || ~2.0",
+    "moodle/moodle": "3.0.* || 3.1.* || 3.2.* || 3.3.* || 3.4.* || 3.5.* || 3.6.* || 3.7.* || 3.8.* || 3.9.* || 3.10.* || 3.11.* || 4.0.* || 4.1.* || 4.2.* || 4.3.* || 4.4.* || 4.5.* || 5.0.* || 5.1.* || 5.2.*"
+  },
+  "extra": {
+    "installer-name": "readspeaker_embhl",
+    "moodle-composer": {
+      "component": "block_readspeaker_embhl"
+    }
+  }
+}
